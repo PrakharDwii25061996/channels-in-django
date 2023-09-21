@@ -69,7 +69,7 @@ Other Projects
 --------------
 
 The Channels project is made up of several packages; the others are:
-
+This are the three pillars where github is dependent.
 * `Daphne <https://github.com/django/daphne/>`_, the HTTP and Websocket termination server
 * `channels_redis <https://github.com/django/channels_redis/>`_, the Redis channel backend
 * `asgiref <https://github.com/django/asgiref/>`_, the base ASGI library/memory backend
